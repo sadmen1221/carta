@@ -5,21 +5,24 @@
         "id": "COM01",
         "imagen": "https://tofuu.getjusto.com/orioneat-local/resized2/RYKFAKwCgTB3DPJww-1200-1200.webp",
         "descripcion": "Combinado arroz chaufa, pollo broaster y papas fritas.",
-        "precio": 8.00
+        "precio": 8.00,
+        "categoria": "Combo"
       },
       {
         "nombre": "Salchipapas",
         "id": "COM02",
         "imagen": "https://tofuu.getjusto.com/orioneat-local/resized2/a2DRRuDevWhumvcaW-350-350.webp",
         "descripcion": "Hot dog, papas fritas, cremas, ensaladas, papas al hilo a elección.",
-        "precio": 6.00
+        "precio": 6.00,
+        "categoria": "Combo"
       },
       {
         "nombre": "Salchipapa especial",
         "id": "COM03",
         "imagen": "https://tofuu.getjusto.com/orioneat-local/resized2/zkh6JS2GtGLJM5JuJ-350-350.webp",
         "descripcion": "Hot dog, papas fritas, huevo, chorizo, cremas, ensaladas, papas al hilo a elección.",
-        "precio": 9.00
+        "precio": 9.00,
+        "categoria": "Combo"
       }
     ],
     "Sandwich": [
@@ -28,21 +31,24 @@
         "id": "SAN01",
         "imagen": "https://tofuu.getjusto.com/orioneat-local/resized2/DbxsYRy7e7vorQPNu-1200-1200.webp",
         "descripcion": "Pan roseta o yema, 2 hot dogs, cremas, ensaladas, papas al hilo a elección.",
-        "precio": 22.00
+        "precio": 22.00,
+        "categoria": "Sandwich"
       },
       {
         "nombre": "sandwich Chorizo",
         "id": "SAN02",
         "imagen": "https://tofuu.getjusto.com/orioneat-local/resized2/rqskuQ7Tc5XhCyfkE-1200-1200.webp",
         "descripcion": "Tortilla, queso, pollo deshilachado, chorizo, pavo, lechón, cremas, ensaladas, papas al hilo a elección.",
-        "precio": 30.00
+        "precio": 30.00,
+        "categoria": "Sandwich"
       },
       {
         "nombre": "sandwich pollo",
         "id": "SAN03",
         "imagen": "https://tofuu.getjusto.com/orioneat-local/resized2/mfXjGAY57ht24oMCX-350-350.webp",
         "descripcion": "Pan roseta o yema, pollo deshilachado, cremas, ensaladas, papas al hilo a elección.",
-        "precio": 20.00
+        "precio": 20.00,
+        "categoria": "Sandwich"
       }
     ],
     "Hamburguesa": [
@@ -51,14 +57,16 @@
         "id": "HAM01",
         "imagen": "https://tofuu.getjusto.com/orioneat-prod/LKQsqEJbBsnuFaabw-Hamburguesa%20de%20carne%20royal.png",
         "descripcion": "Pan roseta o yema, carne de hamburguesa res, cremas, ensaladas, papas al hilo a elección.",
-        "precio": 28.00
+        "precio": 28.00,
+        "categoria": "Hamburguesa"
       },
       {
         "nombre": "Hamburguesa royal res",
         "id": "HAM02",
         "imagen": "https://tofuu.getjusto.com/orioneat-local/resized2/mfXjGAY57ht24oMCX-350-350.webp",
         "descripcion": "Pan roseta o yema, carne res, cremas, queso, huevo, ensaladas, papas al hilo a elección.",
-        "precio": 32.00
+        "precio": 32.00,
+        "categoria": "Hamburguesa"
       }
     ]
 }
